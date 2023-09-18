@@ -1,16 +1,19 @@
 # space_now
 
-A new Flutter project.
+Exercicio em dart , mexendo com conexões de API e assinatura
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Aplicativo feito com Flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+FAKE API usada: https://fakeapi.platzi.com/en/rest/auth-jwt
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Lib de componentes usada: https://docs.getwidget.dev/gf-tile/
+
+API de onde veio os dados: http://api.open-notify.org
+
+
+## Consideraçoes
+
+Pelo curto tempo não consegui alinhar direitinho o componente do astronaut_card na GrindView por isso ta ruim.
