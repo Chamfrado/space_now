@@ -13,7 +13,3 @@ Lib de componentes usada: https://docs.getwidget.dev/gf-tile/
 
 API de onde veio os dados: http://api.open-notify.org
 
-
-## Consideraçoes
-
-Pelo curto tempo não consegui alinhar direitinho o componente do astronaut_card na GrindView por isso ta ruim.
